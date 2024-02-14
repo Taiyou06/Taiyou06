@@ -1,7 +1,7 @@
 
 # Hello! 👋 I'm Taiyou! 
 I am a software engineer at [Karabuk University](https://www.karabuk.edu.tr/en), where I study at my 3rd year as Mechatronics Engineer. <br>
-I'm currently working on my personal project as a Head Leader at [Gensokyo Reimagined](https://www.gensokyoreimagined.net/).
+I'm currently working on my personal project as a Project Lead at [Gensokyo Reimagined](https://www.gensokyoreimagined.net/).
 
 
 <!--- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
