@@ -11,8 +11,10 @@ I'm currently working on my personal project as a Project Lead at [Gensokyo Reim
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taiyou06&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Taiyou06&theme=dark&hide_border=true" width="400">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Taiyou06&show_icons=true&theme=tokyonight&rank_icon=github" />
+  </a>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Taiyou06&theme=dark&hide_border=true" width="600">
 </p>
 
 ---
@@ -28,10 +30,6 @@ I'm currently working on my personal project as a Project Lead at [Gensokyo Reim
   </a>
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
   <a href="https://html.com/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   </a>
