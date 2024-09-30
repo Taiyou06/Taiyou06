@@ -7,7 +7,7 @@ I am a software engineer at [Karabuk University](https://www.karabuk.edu.tr/en),
 - I'm currently working on my personal project as a Project Lead at [Gensokyo Reimagined](https://www.gensokyoreimagined.net/).
     - Focusing on Team Management, Feature Implementation, Level Design and Asset Creation (Modelling, Texturing and Some Animations)
 
-- Can create Realistic and Fantasy themed terrain using World Machine; some examples can be found [here](https://imgur.com/a/l7fT7ch)
+- Can create Realistic and Fantasy themed terrain using World Machine and Gaea; some examples can be found [here](https://imgur.com/a/l7fT7ch)
 - I've written many documentation about tracking the progress on the other art/modeling/music teams. An example can be found [here](https://imgur.com/a/ysp4LhR)
 - TODO: Expand more
 
