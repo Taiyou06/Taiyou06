@@ -1,7 +1,5 @@
 
 # Hello! 👋 I'm Taiyou! 
-I am a software engineer at [Karabuk University](https://www.karabuk.edu.tr/en), where I study at my 3rd year as Mechatronics Engineer. <br>
-
 
 ## Game Designer/Developer Feats:
 - I'm currently working on my personal project as a Project Lead at [Gensokyo Reimagined](https://www.gensokyoreimagined.net/).
