@@ -11,6 +11,7 @@
 
 ## Developer Feats:
 - I am mostly a Java, Python, C# and C++ Developer, however I work with a variety of other languages when required. For example to edit shaders and such, I have picked up OpenGL as well as tiny bit of Vulkan.
+    - For java my projects/contributions are: [Sodium](https://github.com/CaffeineMC/sodium/pull/2982), [Leaf](https://github.com/Winds-Studio/Leaf), [Nitori](https://github.com/Gensokyo-Reimagined/Nitori)
 
 - I consider myself mostly a Back-End Developer (MySQL/SQL) although i have a decent amount of knowledge on Front-End (HTML/CSS/JS) as well.
 
