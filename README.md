@@ -1,5 +1,5 @@
 
-# Hello! 👋 I'm Taiyou! 
+# Hello! 👋 I'm Kaan! 
 
 ## Game Designer/Developer Feats:
 - I'm currently working on my personal project as a Project Lead at [Gensokyo Reimagined](https://www.gensokyoreimagined.net/).
